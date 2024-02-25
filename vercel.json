@@ -3,3 +3,11 @@
   "trailingSlash": false,
   "headers": []
 }
+{
+  "git": {
+    "deploymentEnabled": {
+      "deploy/blog": false  
+       "main": false
+    }
+  }
+}
